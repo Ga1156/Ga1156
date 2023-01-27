@@ -1,5 +1,5 @@
 
-<img src="https://github.com/vivekSangode/vivekSangode/raw/main/Vivek%20Sangode.png"/>
+
 - 👋 Hi, I’m @Gaurav
 
 
